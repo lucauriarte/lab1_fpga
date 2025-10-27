@@ -1,0 +1,103 @@
+# Quartus II/Prime generated files
+# Database files
+db/
+incremental_db/
+
+# Output files
+output_files/
+
+# Simulation files
+simulation/
+**/simulation/
+simulation/modelsim/
+simulation/qsim/
+
+# Compilation and synthesis reports
+*.rpt
+*.summary
+*.smsg
+*.qmsg
+
+# Quartus temporary and cache files
+*.ddb
+*.bak
+*.temp
+*.log
+*.done
+*.jdi
+*.sof
+*.pof
+*.rbf
+*.ttf
+*.pin
+*.tis_db_list.ddb
+
+# Quartus database and cache directories (alternative locations)
+*_db/
+*.qdb/
+*.quartus_db/
+
+# IP core files (generated)
+*.qip
+*.bsf
+*.cmp
+*.ppf
+*.qws
+
+# TimeQuest files
+*.sdc.bak
+*.tao.bak
+
+# ModelSim/QuestaSim files
+*.wlf
+*.vstf
+work/
+transcript
+
+# SignalTap files
+*.stp
+
+# Hardware description files backups
+*.vhd.bak
+*.v.bak
+*.sv.bak
+
+# Placement and routing files
+*.fit.*
+*.map.*
+*.asm.*
+*.sta.*
+*.eda.*
+*.flow.*
+
+# Assignment files backups
+*.qsf.bak
+*.qpf.bak
+
+# Native link simulation files
+*_nativelink_simulation.rpt
+
+# Lock files
+*.flock
+
+# Waveform temporary files
+*.vwf.temp
+
+# Other temporary files
+*.orig
+*.swp
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
